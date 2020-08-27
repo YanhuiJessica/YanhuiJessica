@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" alt="YanhuiJessica's github stats" width="65%" src="https://github-readme-stats.vercel.app/api?username=YanhuiJessica&show_icons=true&count_private=true&theme=great-gatsby&hide=issues">
-<img alt="shaking chicken" src="img/shake-nobg.gif" width="25%">
+<img alt="shaking chicken" src="https://raw.githubusercontent.com/YanhuiJessica/YanhuiJessica/master/img/shake-nobg.gif" width="25%">
 
 ### CTF
 

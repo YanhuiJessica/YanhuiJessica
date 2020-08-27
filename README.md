@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="YanhuiJessica's github stats" width="65%" src="https://github-readme-stats.vercel.app/api?username=YanhuiJessica&show_icons=true&count_private=true&theme=great-gatsby&hide=issues">
-<img alt="shaking chicken" src="https://raw.githubusercontent.com/YanhuiJessica/YanhuiJessica/master/img/shake-nobg.gif" width="25%">
+<img align="right" alt="YanhuiJessica's github stats" width="60%" src="https://github-readme-stats.vercel.app/api?username=YanhuiJessica&show_icons=true&count_private=true&theme=great-gatsby&hide=issues">
+<img alt="shaking chicken" src="https://raw.githubusercontent.com/YanhuiJessica/YanhuiJessica/master/img/shake-nobg.gif" width="20%">
 
 ### CTF
 
 🌱 Currently learning
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=Chictf-Writeups&theme=great-gatsby">
+[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=Chictf-Writeups&theme=great-gatsby">](https://yanhuijessica.github.io/Chictf-Writeups/)
+
+### My Course Repository
+
+[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=CUCCS&repo=2019-NS-Public-YanhuiJessica">](https://github.com/CUCCS/2019-NS-Public-YanhuiJessica)
+[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=2019-SDL-Public-YanhuiJessica">](https://github.com/YanhuiJessica/2019-SDL-Public-YanhuiJessica)
+[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=2020-SSS-Public-YanhuiJessica">](https://github.com/YanhuiJessica/2020-SSS-Public-YanhuiJessica)

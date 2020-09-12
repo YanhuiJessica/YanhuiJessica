@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 🌱 Currently learning 🌱
 
 [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=Chictf-Writeups">](https://yanhuijessica.github.io/Chictf-Writeups/)
+[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=MBE-Learning">](https://github.com/YanhuiJessica/MBE-Learning)
 
 ### My Course Repositories
 

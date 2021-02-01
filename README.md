@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 <img align="right" alt="YanhuiJessica's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=YanhuiJessica&show_icons=true&count_private=true&theme=vue&hide=issues">
 <img alt="shaking chicken" src="https://raw.githubusercontent.com/YanhuiJessica/YanhuiJessica/master/img/shake-nobg.gif" width="20%">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=YanhuiJessica)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 🚩 CTF
 
 🌱 Currently learning 🌱
 
 [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=Chictf-Writeups">](https://yanhuijessica.github.io/Chictf-Writeups/)
-[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=MBE-Learning">](https://github.com/YanhuiJessica/MBE-Learning)
 
 ### My Course Repositories
 

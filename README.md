@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=CUCCS&repo=2019-NS-Public-YanhuiJessica">](https://github.com/CUCCS/2019-NS-Public-YanhuiJessica)
 [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=2019-SDL-Public-YanhuiJessica">](https://github.com/YanhuiJessica/2019-SDL-Public-YanhuiJessica)
 [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=2020-SSS-Public-YanhuiJessica">](https://github.com/YanhuiJessica/2020-SSS-Public-YanhuiJessica)
+[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=linux-2020-YanhuiJessica">](https://github.com/YanhuiJessica/linux-2020-YanhuiJessica)

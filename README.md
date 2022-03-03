@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 ### Join Us!
 
-[![](https://img.shields.io/badge/dynamic/xml?label=telegram&logo=telegram&query=%2Fhtml%2Fbody%2Fdiv%5B1%5D%2Fdiv%5B2%5D%2Fdiv%5B3%5D&url=https%3A%2F%2Ft.me%2Fjoinchat%2FDAakbi41oJA5N2E1)](https://t.me/joinchat/DAakbi41oJA5N2E1)
+[![](https://img.shields.io/badge/dynamic/xml?label=telegram&logo=telegram&query=%2Fhtml%2Fbody%2Fdiv%5B2%5D%2Fdiv%5B2%5D%2Fdiv%2Fdiv%5B3%5D&url=https%3A%2F%2Ft.me%2Fjoinchat%2FDAakbi41oJA5N2E1)](https://t.me/joinchat/DAakbi41oJA5N2E1)

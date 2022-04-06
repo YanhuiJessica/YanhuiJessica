@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="Yanhui's Summary Cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanhuiJessica&theme=solarized">
+<img align="right" alt="Yanhui's Summary Cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanhuiJessica&theme=solarized" width="70%">
 <img alt="shaking chicken" src="https://raw.githubusercontent.com/YanhuiJessica/YanhuiJessica/master/img/shake-nobg.gif" width="20%">
 
 ### 🚩 CTF

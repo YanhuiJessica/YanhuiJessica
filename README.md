@@ -1,4 +1,6 @@
-## Hi~ Yanhui here! <img src="https://raw.githubusercontent.com/YanhuiJessica/YanhuiJessica/master/img/simons-cat.gif" width="30" style="margin-bottom: -5px">
+<img src="https://raw.githubusercontent.com/YanhuiJessica/YanhuiJessica/master/img/chicken-forest.jpg" align="center">
+
+<h2 align="center"> Hi~ Yanhui here! <img src="https://raw.githubusercontent.com/YanhuiJessica/YanhuiJessica/master/img/simons-cat.gif" width="30" style="margin-bottom: -5px"> </h2>
 
 <!--
 **YanhuiJessica/YanhuiJessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/YanhuiJessica/YanhuiJessica/master/img/chicken-forest.jpg" align="center">
+<img src="https://raw.githubusercontent.com/YanhuiJessica/YanhuiJessica/master/img/chicken-forest.jpg" style="border-radius: 0.8em;" align="center">
 
 <h2 align="center"> Hi~ Yanhui here! <img src="https://raw.githubusercontent.com/YanhuiJessica/YanhuiJessica/master/img/simons-cat.gif" width="30" style="margin-bottom: -5px"> </h2>
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="Yanhui's Summary Cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanhuiJessica&theme=solarized" width="70%">
+<img align="right" style="border-radius: 2em;" alt="Yanhui's Summary Cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanhuiJessica&theme=solarized" width="70%">
 <img alt="shaking chicken" src="https://raw.githubusercontent.com/YanhuiJessica/YanhuiJessica/master/img/shake-nobg.gif" width="20%">
 
 ### 🚩 CTF

@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### 🚩 CTF
 
-🌱 Currently learning 🌱 Playing with [Project SEKAI](https://twitter.com/ProjectSEKAIctf) 🐣
+🌱 Currently learning 🌱 Playing with [Project SEKAI](https://sekai.team/) 🐣
 
 [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=Chictf-Writeups">](https://yanhuijessica.github.io/Chictf-Writeups/)
 

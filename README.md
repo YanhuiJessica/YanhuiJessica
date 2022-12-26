@@ -1,43 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2558 680" width="100%">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-                .container {
-                    width:2558px;
-                    height:680px;
-                    position:absolute;
-                    background-image:url("https://raw.githubusercontent.com/YanhuiJessica/YanhuiJessica/master/img/chicken-forest.png");
-                    background-size:cover;
-                    overflow:hidden;
-                    border-radius:3px;
-                    box-shadow:0px 0px 1px 1px gray;
-                }
-                .light {
-                    width: 100%;
-                    height: 50%;
-                    transform: rotate(70deg);
-                    background: rgba(255, 255, 255, 0.356);
-                    position: relative;
-                    animation-delay: 2s;
-                    animation-name: move;
-                    animation-duration: 3s;
-                    animation-iteration-count: infinite;
-                }
-                @keyframes move{
-                    from{left:-50%;}
-                    to{left:100%;}
-                }
-                @-webkit-keyframes move{
-                    from{left:-50%;}
-                    to{left:100%;}
-                }
-            </style>
-            <div class="container">
-                <div class="light"></div>
-            </div>
-        </div>
-    </foreignObject>
-</svg>
+<img src="https://raw.githubusercontent.com/YanhuiJessica/YanhuiJessica/master/img/header.svg" align="center">
 
 <h2 align="center"> Hi~ Yanhui here! <img src="https://raw.githubusercontent.com/YanhuiJessica/YanhuiJessica/master/img/simons-cat.gif" width="30" style="margin-bottom: -5px"> </h2>
 

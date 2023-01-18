@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 
 🌱 Currently learning 🌱 Playing with [Project SEKAI](https://sekai.team/) 🐣
 
-[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=Chictf-Writeups">](https://yanhuijessica.github.io/Chictf-Writeups/)
+[<img class="col-lg-6" src="https://chicken-github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=Chictf-Writeups">](https://yanhuijessica.github.io/Chictf-Writeups/)
 
 ### My Course Repositories
 
-[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=CUCCS&repo=2019-NS-Public-YanhuiJessica">](https://github.com/CUCCS/2019-NS-Public-YanhuiJessica)
-[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=2019-SDL-Public-YanhuiJessica">](https://github.com/YanhuiJessica/2019-SDL-Public-YanhuiJessica)
-[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=2020-SSS-Public-YanhuiJessica">](https://github.com/YanhuiJessica/2020-SSS-Public-YanhuiJessica)
-[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=linux-2020-YanhuiJessica">](https://github.com/YanhuiJessica/linux-2020-YanhuiJessica)
+[<img class="col-lg-6" src="https://chicken-github-readme-stats.vercel.app/api/pin/?username=CUCCS&repo=2019-NS-Public-YanhuiJessica">](https://github.com/CUCCS/2019-NS-Public-YanhuiJessica)
+[<img class="col-lg-6" src="https://chicken-github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=2019-SDL-Public-YanhuiJessica">](https://github.com/YanhuiJessica/2019-SDL-Public-YanhuiJessica)
+[<img class="col-lg-6" src="https://chicken-github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=2020-SSS-Public-YanhuiJessica">](https://github.com/YanhuiJessica/2020-SSS-Public-YanhuiJessica)
+[<img class="col-lg-6" src="https://chicken-github-readme-stats.vercel.app/api/pin/?username=YanhuiJessica&repo=linux-2020-YanhuiJessica">](https://github.com/YanhuiJessica/linux-2020-YanhuiJessica)
 
 ### Join Us!
 

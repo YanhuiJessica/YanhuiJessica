@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/dynamic/json?label=telegram&logo=telegram&url=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbxYAxa9SlCc8j41VqyE-PM3kgWy1ErvG0S4sk4OiRcHW3u9uqPFBRS_lBPN3ty00cK-lw%2Fexec%3Furl%3Dhttps%3A%2F%2Ft.me%2F%2BDAakbi41oJA5N2E1&query=%24.member_cnt)](https://t.me/joinchat/DAakbi41oJA5N2E1)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YanhuiJessica&title=MultiLanguage,Followers,Issues,Commits,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-six-brown.vercel.app/?username=YanhuiJessica&title=MultiLanguage,Followers,Issues,Commits,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
